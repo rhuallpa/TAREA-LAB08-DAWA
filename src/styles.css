@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+background: #111112;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #1e1f20, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #1c1c1d, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+  .selected {
+    background-color: #7e8892;
+    color: whitesmoke;
+  }
+  
+  
+
+  
